@@ -1,2 +1,7 @@
-streamlit
-sklearn
+scikit-learn
+matplotlib
+seaborn
+numpy
+pandas
+scipy 
+
